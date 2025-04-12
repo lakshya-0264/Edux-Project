@@ -3,11 +3,11 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
 
-import LandingScreen from "./Components/LandingScreen";
-import LoginScreen from "./Components/LoginScreen";
-import SignUpScreen from "./Components/SignUpScreen";
-import Error from "./Components/Error";
-import Profile from "./Components/Profile";
+import LandingScreen from "./components/LandingScreen";
+import LoginScreen from "./components/LoginScreen";
+import SignUpScreen from "./components/SignUpScreen";
+import Error from "./components/Error";
+import Profile from "./components/Profile";
 
 
 const AppLayout = () => {
