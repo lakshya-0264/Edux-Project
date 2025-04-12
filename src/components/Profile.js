@@ -54,7 +54,7 @@ const Profile = () => {
                 </div>
             </div>
             <div className="ml-4">
-                <h2 className="text-xl font-medium text-gray-800">Marry Doe</h2>
+                <h2 className="text-xl font-medium text-gray-800">Test Account</h2>
                 <p className="text-sm text-gray-600">{userEmail}</p>
             </div>
             </div>
