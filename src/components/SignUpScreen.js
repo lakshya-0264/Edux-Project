@@ -5,7 +5,7 @@ const SignUpScreen = () => {
     const [fullName, setFullName] = useState('Tester');
     const [phoneNumber, setPhoneNumber] = useState('123-456-7890');
     const [email, setEmail] = useState('testing@example.com');
-    const [password, setPassword] = useState('password123');
+    const [password, setPassword] = useState('test@4545');
     const [companyName, setCompanyName] = useState('EduX Sample Account');
     const [isAgency, setIsAgency] = useState(false);
     const [error, setError] = useState('');
@@ -15,7 +15,7 @@ const SignUpScreen = () => {
         setFullName('Tester');
         setPhoneNumber('123-456-7890');
         setEmail('testing@example.com');
-        setPassword('password123');
+        setPassword('test@4545');
         setCompanyName('EduX Sample Account');
         setIsAgency(false);
         setError('');

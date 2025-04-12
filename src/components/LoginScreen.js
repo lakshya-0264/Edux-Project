@@ -3,13 +3,13 @@ import { useNavigate } from 'react-router-dom';
 
 const LoginScreen = () => {
     const [email, setEmail] = useState('test@example.com');  // Pre-filled sample email
-    const [password, setPassword] = useState('password123');   // Pre-filled sample password
+    const [password, setPassword] = useState('test@4545');   // Pre-filled sample password
     const [error, setError] = useState('');
     const navigate = useNavigate();
 
     useEffect(() => {
         setEmail('test@example.com');
-        setPassword('password123');
+        setPassword('test@4545');
         setError('');
     }, []);
 
