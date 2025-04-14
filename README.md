@@ -22,19 +22,15 @@ EduX is a dynamic, scalable user-profile platform designed to manage user profil
 
 - **Intuitive UI**: Modern and user-friendly interface with smooth transitions and animations.
 - **Responsive Design**: Fully responsive design, optimized for desktop, tablet, and mobile.
-- **Account Management**: Secure user authentication and profile settings.
+- **Account Management**: Secure user Email and profile settings.
 - **Tech Stack**: Built with **ReactJS**, **Tailwind CSS**, **React Router**, and **Lucide Icons** for seamless navigation and rich user experience.
-- **PDF Download**: Ability to download order summaries as PDFs.
-- **Dark Mode Support**: Toggle between light and dark themes for optimal viewing experience.
 
 ---
 
 ## Tech Stack
 
 - **Frontend**: ReactJS, Tailwind CSS, Lucide Icons, React Router
-- **Backend**: (Add your backend tech stack if applicable)
-- **State Management**: (Add if using any state management tools)
-- **Deployment**: (Add your deployment platform, e.g., Netlify, Vercel)
+- **Deployment**: Vercel
 
 ---
 
@@ -70,8 +66,7 @@ This will start the React development server and open the app in your default br
 Once the app is running, you'll be able to:
 
 - **Create an Account**: Register and log in to the platform.
-- **View Content**: Browse through educational resources and materials.
-- **Manage Orders**: Check your order history and download order summaries.
+- **View Content**: Browse through educational resources and materials (Will added in future).
 - **Customize Profile**: Update your profile and preferences in the account settings page.
 
 ---
