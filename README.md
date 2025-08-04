@@ -91,12 +91,6 @@ We welcome contributions from the open-source community! Feel free to fork the p
 
 ---
 
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
 - **ReactJS**: A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -109,5 +103,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For any questions or inquiries, feel free to reach out to me:
 
-- **Email**: [your-email@example.com](mailto:lakshyasinghal2320@gmail.com)
+- **Email**: [lakshyasinghal2320@gmail.com](mailto:lakshyasinghal2320@gmail.com)
 - **GitHub**: [lakshya-0264](https://github.com/lakshya-0264)
